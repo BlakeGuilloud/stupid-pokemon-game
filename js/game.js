@@ -65,7 +65,7 @@ const pokemonArray = [
   'clefairy',
   'clefable',
   'vulpix',
-  'ninetails',
+  'ninetales',
   'jigglypuff',
   'wigglytuff',
   'zubat',
